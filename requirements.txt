@@ -1,0 +1,10 @@
+flask==2.0.3  
+python-dotenv==0.19.2  
+slack-sdk==3.19.1  
+slack-bolt==1.7.0  
+PyPDF2==1.26.0  
+requests==2.26.0  
+groq==0.7.0  
+faiss-cpu==1.7.1  
+numpy==1.21.2  
+sentence-transformers==2.2.2
